@@ -1,0 +1,2 @@
+Lerne gerade wie man die CLI verwendet, für Git.
+Viel Glück @me
